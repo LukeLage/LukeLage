@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeLage
 - 👀 I’m interested in ... software, web and mobile development 
-- 🌱 I’m currently learning ... HTML and CSS
+- 🌱 I’m currently learning ... JavaScript, Ruby, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
