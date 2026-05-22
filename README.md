@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Luke! 👋
 
 ### 📊 Sobre Mim
 - 🎯 Atuo na área de **Dados**, transformando dados brutos em insights estratégicos para tomadas de decisão.
